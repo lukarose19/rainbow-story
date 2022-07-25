@@ -1,0 +1,61 @@
+ body {
+    font-family: Calibri, sans-serif;
+ }
+ a {
+
+    text-decoration: none;
+  }
+  header {
+    display: grid;
+    grid-auto-flow: column;
+    font-size: xx-large;
+    font-weight: bold;
+  }
+  header > p > span {
+    padding: 10px;
+    border: 5px solid ;;
+    border-radius: 15px;
+
+  }
+  #story {
+    margin: 10px 0;
+    text-align: left;
+  }
+  #scene {
+    margin: 10px 0;
+    text-align: right;
+  }
+  #image {
+    text-align: center;
+  }
+  #image > img {
+    border: 7px solid ;;
+    border-radius: 15px;
+  }
+  #words {
+    border: 4px solid ;;
+    border-radius: 15px;
+    text-align: center;
+    margin: 30px;
+    font-size: x-large;
+
+  }
+  #choices > ul {
+    list-style-type: none;
+    display: grid;
+    gap: 50px;
+    grid-auto-flow: column;
+    margin: 0;
+    padding: 0;
+  }
+  #choices > ul > li {
+    text-align: center;
+  }
+  #choices > ul > li > a {
+    font-size: large;
+    margin: 5px;
+    padding: 10px 50px;
+    border: 2px solid ;;
+    border-radius: 10px;
+
+  }
