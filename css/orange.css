@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(246, 107, 26) ;
+    color: rgb(144,35,0);
+
+  }
+  a {
+    color: rgb(144,35,0);
+
+  }
+ 
+  header > p > span {
+    background-color: antiquewhite;
+    border-color:rgb(144,35,0);
+
+  }
+  #image > img {
+    border-color:rgb(144,35,0);;
+
+  }
+  #words {
+    border-color:rgb(144,35,0);
+    background-color: antiquewhite;
+  }
+
+  #choices > ul > li > a {
+    border-color:rgb(144,35,0);;
+    background-color:antiquewhite ;
+  }
