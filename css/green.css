@@ -1,0 +1,28 @@
+body {
+    background-color:rgb(0, 255, 153) ;
+    color: rgb(0,94,69);
+
+  }
+  a {
+    color: rgb(0,94,69);
+
+  }
+ 
+  header > p > span {
+    background-color: whitesmoke;
+    border-color:rgb(0,94,69);
+
+  }
+  #image > img {
+    border-color:rgb(0,94,69);;
+
+  }
+  #words {
+    border-color:rgb(0,94,69);
+    background-color: whitesmoke;
+  }
+
+  #choices > ul > li > a {
+    border-color:rgb(0,94,69);;
+    background-color:whitesmoke ;
+  }
