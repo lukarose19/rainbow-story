@@ -8,9 +8,9 @@
         initPath("orange-box", "img/cat.png", "orange-story/o-0.html", "A Cat goes on a fetch quest to hell");
         initPath("yellow-box", "img/deer.png", "yellow-story/y-0.html", "A Deer searchers for a missing item");
         initPath("green-box", "img/man.png", "green-story/g-1.html", "A Grumpy Old Man wants these darn kids to get off his lawn");
-        initPath("blue-box", "img/notyet.png", "blue-story/b-0.html", "bleu chese");
-        initPath("violet-box", "img/notyet.png", "violet-story/v-0.html", ":D");
-        initPath("pink-box", "img/notyet.png", "pink-story/p-0.html", "D:");
+        initPath("blue-box", "img/notyet.png", "404.html", "bleu chese");
+        initPath("violet-box", "img/notyet.png", "404.html", ":D");
+        initPath("pink-box", "img/notyet.png", "404.html", "D:");
       }
       function initPath(id, img, url, desc) {
         var e = document.getElementById(id);
@@ -30,7 +30,7 @@
     <style type="text/css">
       body {
         text-align: center;
-        background-color: darkgray;
+        background-color: rgb(73, 71, 87);
       }
 svg{
   border: 1px solid black;
@@ -86,13 +86,13 @@ svg{
   <body onload="init()" style="text-align: center">
     <h1>Home</h1>
 <svg xmlns="http://www.w3.org/2000/svg" height="399" width="600"id="selector">
-<rect xmlns x="0" y="0" width="600" height="57" fill="crimson" id="red-box" />
-<rect xmlns x="0" y="57" width="600" height="57" fill="orange"id="orange-box" />
-<rect xmlns x="0" y="114" width="600" height="57" fill="yellow" id="yellow-box" />
-<rect xmlns x="0" y="171" width="600" height="57" fill="green" id="green-box" />
-<rect xmlns x="0" y="228" width="600" height="57" fill="blue" id="blue-box" />
-<rect xmlns x="0" y="285" width="600" height="57" fill="violet" id="violet-box" />
-<rect xmlns x="0" y="342" width="600" height="57" fill="pink" id="pink-box" />
+<rect xmlns x="0" y="0" width="600" height="57" fill="rgb(255,112,110)" id="red-box" />
+<rect xmlns x="0" y="57" width="600" height="57" fill="rgb(255,153,82)"id="orange-box" />
+<rect xmlns x="0" y="114" width="600" height="57" fill="rgb(252,219,100)" id="yellow-box" />
+<rect xmlns x="0" y="171" width="600" height="57" fill="rgb(175,241,124)" id="green-box" />
+<rect xmlns x="0" y="228" width="600" height="57" fill="rgb(137,203,252)" id="blue-box" />
+<rect xmlns x="0" y="285" width="600" height="57" fill="rgb(174,120,250)" id="violet-box" />
+<rect xmlns x="0" y="342" width="600" height="57" fill="rgb(254,119,152)" id="pink-box" />
 </svg>
 <img src="img/notyet.png" height="399" id="character">
 <p id="summary">
@@ -101,7 +101,7 @@ svg{
 <div id="extras">
   <ul>
     <li><a href="thanks.html">Special Thanks</a></li>
-    <li><a href="patch-notes.html">Patch Notes</a></li>
+    <li><a href="404.html">Patch Notes</a></li>
   </ul>
 </div>
   </body>
