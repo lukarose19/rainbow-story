@@ -1,0 +1,131 @@
+commit bcc0472348834d70571cefeccc612929c9cd908a
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Wed Apr 26 17:51:12 2023 -0400
+
+    Fixed 404 Page
+
+commit e9da9c9f48832050349ceab2839c6bf25ceca2ea
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Wed Apr 26 17:05:51 2023 -0400
+
+    Fixed Homepage Colors
+
+commit 821ea022116db33b77714b6d3a8e4c116a94c1d0
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Wed Apr 12 22:30:15 2023 -0400
+
+    Added Home Page Rough Draft
+
+commit f90f8698682c70ab39356285d2d644602ef73143
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Thu Apr 6 15:46:47 2023 -0400
+
+    Fixed index route and added flag
+
+commit 925659679537479fde5a733847093b9e5d086c0f
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Wed Apr 5 20:45:28 2023 -0400
+
+    Switched warning and index
+
+commit 9154236990593d26645f024b38e1b8a8356c23e5
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Tue Apr 4 21:35:27 2023 -0400
+
+    Added mobile issue warning
+
+commit 4b334faa3a15803fe677f745372921ce94344dae
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Tue Apr 4 21:32:10 2023 -0400
+
+    Added Milligan
+
+commit 22cb7c11963d56e66cde8604331b1c964763a009
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Tue Apr 4 20:51:24 2023 -0400
+
+    edited disclaimer page
+
+commit afaff56b1ae6b2d635df44475edbc4c73e858829
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Tue Apr 4 20:46:26 2023 -0400
+
+    Add disclaimer
+
+commit 89e9c3b98c41793a7b83c417d9fb2e1b4af16509
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Thu Feb 23 20:27:36 2023 -0500
+
+    fixed 404
+
+commit dfe2db3d0c72d545a072764eabf62d386fad4ff6
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Thu Feb 23 20:23:24 2023 -0500
+
+    Added 404 Screen
+
+commit fcaf770780ad12049476432e4218787e9389eb71
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Mon Feb 20 18:31:58 2023 -0500
+
+    Added Error Page
+
+commit 5ef56fe4e248a079a6622a34895d9e64d83d0369
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Sun Jan 29 20:05:19 2023 -0500
+
+    Fixed Various Issues
+
+commit 2463d76890498d2cccd516bc1f30de9351f92fef
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Fri Jan 27 18:48:27 2023 -0500
+
+    Fixed Issue #7 Added Main Menu
+
+commit fc8c18455be0c7a0d8c07006e71fea812d970cde
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Fri Jan 27 18:36:03 2023 -0500
+
+    Added Green Story
+
+commit bfc35ae39a862b80adc8893be5f1afa78cba7052
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Wed Jan 25 14:23:13 2023 -0500
+
+    Added Yellow Story
+
+commit 6abf845df6d38ee1fea2a3efb2fd4165df1edc59
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Tue Dec 20 21:56:35 2022 -0500
+
+    Finish Orange story
+
+commit bf3be8a5d79ad6b1f76df1b5bf23c73e2388f440
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Mon Dec 19 21:52:36 2022 -0500
+
+    Fixed Issues #4 and #5 Mother and Mermaid
+
+commit c8001a3785c0ddcafc1f07e28edfc05663c47835
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Mon Dec 19 20:29:59 2022 -0500
+
+    Fixed Issue #2 Childs Name
+
+commit 5b048e8c8fb933df00ae6e0e71facc66182c08b9
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Mon Dec 19 20:21:50 2022 -0500
+
+    Fixed Issue #1 Corrected text
+
+commit d4071273fa90ee4c32e756c3f034d3f771c3ab98
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Mon Dec 19 20:06:10 2022 -0500
+
+    Added orange story
+
+commit 08694388c0ee63fac1bf23f77d7b7643e490172a
+Author: Luka Donovan <elizabethdonovan13@gmail.com>
+Date:   Mon Jul 25 14:25:11 2022 -0400
+
+    Initial Import
